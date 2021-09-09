@@ -1,2 +1,2 @@
-# curl-git
-Alpine Image with cURL and GIT installed for concourse use
+# docker-curl-git-lfs
+Alpine Image with cURL and GIT (including git-lfs) installed
